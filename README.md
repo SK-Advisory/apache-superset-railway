@@ -1,8 +1,4 @@
-# Apache Superset Docker for Railway
-
-[![Deploy on Railway](https://railway.com/button.svg)](https://railway.app/template/954W6r?referralCode=cWyE73)
-
-Modified code from here: https://medium.com/towards-data-engineering/quick-setup-configure-superset-with-docker-a5cca3992b28
+[![Deploy on Railway](https://railway.com/button.svg)](https://railway.com/deploy/iwmSTQ?referralCode=pJ9Yn8&utm_medium=integration&utm_source=template&utm_campaign=generic)
 
 ## Why this?
 
