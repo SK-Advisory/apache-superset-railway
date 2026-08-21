@@ -1,1 +1,11 @@
-[![Deploy on Railway](https://railway.com/button.svg)](https://railway.com/deploy/iwmSTQ?referralCode=pJ9Yn8&utm_medium=integration&utm_source=template&utm_campaign=generic)
+# Apache Superset (SKAPP)
+
+Custom image for SKAPP on Railway. Built on `apache/superset:6.1.0` with
+MySQL and Postgres drivers baked in so they survive redeploys.
+
+Connect **Superset**, **Superset-Worker**, and **Superset-Beat** to this
+repository. Keep the existing Railway start commands; this image does not
+replace the entrypoint.
+
+MySQL 8/9 (`caching_sha2_password`): if `mysql://` fails, use
+`mysql+mysqlconnector://`.
