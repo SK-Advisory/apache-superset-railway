@@ -1,4 +1,4 @@
-# SKAPP test image: official lean Superset plus MySQL (and Postgres) drivers.
+# SKAPP image: official lean Superset plus MySQL (and Postgres) drivers.
 # Railway start commands still own the process (web / worker / beat).
 FROM apache/superset:6.1.0
 
